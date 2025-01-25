@@ -1,5 +1,10 @@
 # SuffixalDerivation
 
+Authors: 
+Ivelina Stoyanova, Svetlozara Leseva (Institute for Bulgarian Language, Bulgarian Academy of Sciences)
+Verginica Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
+Gianina Iordăchioaia (University og Graz, Austria)
+
 **1. MSD DATASET.**
 This dataset is distributed by the PWN project4 as a standoff file consisting of 17,739 derivationally related noun-verb pairs,
 which are labeled with a morphosemantic relation (such as Agent, Instrument, Event, etc.) 
