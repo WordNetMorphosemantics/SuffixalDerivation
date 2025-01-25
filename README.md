@@ -1,8 +1,11 @@
 # SuffixalDerivation
 
 Authors: 
+
 Ivelina Stoyanova, Svetlozara Leseva (Institute for Bulgarian Language, Bulgarian Academy of Sciences)
+
 Verginica Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
+
 Gianina Iordăchioaia (University og Graz, Austria)
 
 **1. MSD DATASET.**
