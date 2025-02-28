@@ -9,6 +9,7 @@ Verginica Barbu Mititelu (Romanian Academy Research Institute for Artificial Int
 Gianina Iordăchioaia (University og Graz, Austria)
 
 **Contributors**
+
 We thank our student assistants Anna-Lena Feichter and Mariya Kavaldzhieva for a first round of manual annotation of the data.
 
 **1. MSD DATASET.**
