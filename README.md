@@ -1,8 +1,11 @@
 # SuffixalDerivation
 
 **Authors:** 
+
 Ivelina Stoyanova, Svetlozara Leseva (Institute for Bulgarian Language, Bulgarian Academy of Sciences)
+
 Verginica Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
+
 Gianina Iordăchioaia (University og Graz, Austria)
 
 **Contributors**
@@ -42,7 +45,8 @@ literals, and holds between the corresponding verb and noun synsets.
 The datases covers 21,251 verb-noun pairs with identified suffixal derivational model and assigned morphosemantic 
 relation. The resource is distributed under the Creative Commons Attribution-NonCommercial 4.0 International license.
 
-**References:**
+**References**
+
 Stoyanova, Ivelina, Svetlozara Leseva, Gianina Iordăchioaia, Verginica Barbu Mititelu. _Expanding and 
 Enhancing Derivational and Morphosemantic Relations in Princeton WordNet_. In: Proceedings of the 
 13th International Global Wordnet Conference (GWC2025), Pavia, Italy, January 2025.
