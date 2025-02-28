@@ -1,12 +1,12 @@
 # SuffixalDerivation
 
-Authors: 
-
+**Authors:** 
 Ivelina Stoyanova, Svetlozara Leseva (Institute for Bulgarian Language, Bulgarian Academy of Sciences)
-
 Verginica Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
-
 Gianina Iordăchioaia (University og Graz, Austria)
+
+**Contributors**
+We thank our student assistants Anna-Lena Feichter and Mariya Kavaldzhieva for a first round of manual annotation of the data.
 
 **1. MSD DATASET.**
 This dataset is distributed by the PWN project4 as a standoff file consisting of 17,739 derivationally related noun-verb pairs,
