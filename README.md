@@ -42,10 +42,15 @@ literals, and holds between the corresponding verb and noun synsets.
 The datases covers 21,251 verb-noun pairs with identified suffixal derivational model and assigned morphosemantic 
 relation. The resource is distributed under the Creative Commons Attribution-NonCommercial 4.0 International license.
 
-Reference: Stoyanova, Ivelina, Svetlozara Leseva, Gianina Iordăchioaia, Verginica Barbu Mititelu. Expanding and 
-Enhancing Derivational and Morphosemantic Relations in Princeton WordNet: In Proceedings of the Global WordNet 
-Conference 2025.
+**References:**
+Stoyanova, Ivelina, Svetlozara Leseva, Gianina Iordăchioaia, Verginica Barbu Mititelu. _Expanding and 
+Enhancing Derivational and Morphosemantic Relations in Princeton WordNet_. In: Proceedings of the 
+13th International Global Wordnet Conference (GWC2025), Pavia, Italy, January 2025.
 
+Barbu Mititelu, Verginica, Iordăchioaia, Gianina, Leseva, Svetlozara and Stoyanova, Ivelina. 
+_The meaning of zero nouns and zero verbs_. In: The Semantics of Derivational Morphology: 
+Theory, Methods, Evidence, edited by Sven Kotowski and Ingo Plag, Berlin, Boston: De Gruyter, 
+2023, pp. 63-102. https://doi.org/10.1515/9783111074917-004
 
 
 
