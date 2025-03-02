@@ -13,9 +13,13 @@ Gianina Iordăchioaia (University og Graz, Austria)
 We thank our student assistants Anna-Lena Feichter and Mariya Kavaldzhieva for a first round of manual annotation of the data.
 
 **1. MSD DATASET.**
-This dataset is distributed by the PWN project4 as a standoff file consisting of 17,739 derivationally related noun-verb pairs,
+This dataset is distributed by the PWN project as a standoff file consisting of 17,739 derivationally related noun-verb pairs,
 which are labeled with a morphosemantic relation (such as Agent, Instrument, Event, etc.) 
+
+License: Wordnet 3.0 License (https://wordnet.princeton.edu/license-and-commercial-use) granting 'permission to use, copy, modify and distribute' for both commercial and non-commercial use. 
+
 Source: https://wordnetcode.princeton.edu/standoff-files/morphosemantic-links.xls
+
 Reference: Fellbaum, C., Osherson, A., and Clark, P.E. (2007). Putting Semantics into WordNet's "Morphosemantic" Links. 
 In: Proceedings of the Third Language and Technology Conference, Poznan, Poland. Reprinted in: Responding to Information 
 Society Challenges: New Advances in Human Language Technologies, eds. Z. Vetulani and H. Uszkoreit. Springer Lecture 
@@ -44,7 +48,9 @@ form of an assigned morphosemantic relation between the noun and the verb. While
 relation, in essence, the morphosemantic relation is semantic and thus extends beyond the particular pair of 
 literals, and holds between the corresponding verb and noun synsets.
 The datases covers 21,251 verb-noun pairs with identified suffixal derivational model and assigned morphosemantic 
-relation. The resource is distributed under the Creative Commons Attribution 4.0 International license.
+relation. 
+
+The resource is distributed under the Creative Commons Attribution 4.0 International license.
 
 **References**
 
