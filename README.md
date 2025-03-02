@@ -44,7 +44,7 @@ form of an assigned morphosemantic relation between the noun and the verb. While
 relation, in essence, the morphosemantic relation is semantic and thus extends beyond the particular pair of 
 literals, and holds between the corresponding verb and noun synsets.
 The datases covers 21,251 verb-noun pairs with identified suffixal derivational model and assigned morphosemantic 
-relation. The resource is distributed under the Creative Commons Attribution-NonCommercial 4.0 International license.
+relation. The resource is distributed under the Creative Commons Attribution 4.0 International license.
 
 **References**
 
